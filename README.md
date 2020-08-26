@@ -1,4 +1,4 @@
-# Visualizing Earnings Based On Collage Majors
+# Visualizing Earnings Based On College Majors
 
 **Date:** 22-08-2020
 
